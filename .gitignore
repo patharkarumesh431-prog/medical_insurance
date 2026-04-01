@@ -3,6 +3,3 @@
 *.json
 *.jpeg
 *.venv
-*._pycache_/
-*.vscode/
-*.github/workflows/
